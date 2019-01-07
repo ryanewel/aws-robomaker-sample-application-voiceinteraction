@@ -24,4 +24,4 @@ before_install:
 install:
   - sudo make setup
 script:
-  - make build
+  - sudo make build
